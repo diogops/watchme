@@ -1,5 +1,5 @@
 import ImageGrid from "../components/products/ImageGrid";
-import SimpleClothes from "../components/products/simpleClothes";
+import SimpleClothes from "../components/products/SimpleClothes";
 
 const Products = () => {
     return (
